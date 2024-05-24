@@ -1,0 +1,16 @@
+{
+  "name": "my-express-api",
+  "version": "1.0.0",
+  "description": "API built with Express",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "@pspdfkit/nodejs": "^0.0.5",
+    "express": "^4.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
